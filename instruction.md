@@ -4,6 +4,19 @@
 
 ## lesson_2
 
+
+   * git branch [name] - создание новой ветки
+
+   * git checkout [name] - переключение на указанную ветку
+
+   * git branch - список веток
+
+   * git checkout -b [name_branch] - создание новой ветки и переключение на нее
+
+   * git branch -d [name_branch] - удаление ветки
+
+   * git merge [name_branch] - слияние веток
+
 ## Удаленные репазитории:
 
    * git clone <repository> - клонирование удаленного репозитория 
@@ -26,22 +39,6 @@
    * git remote rename - изменение имени удаленного репозитория 
 
    * git remote show - просмотр всех удаленных репозиториев
-
-    
-
-
-
-    git branch [name] - создание новой ветки
-
-    git checkout [name] - переключение на указанную ветку
-
-    git branch - список веток
-
-    git checkout -b [name_branch] - создание новой ветки и переключение на нее
-
-    git branch -d [name_branch] - удаление ветки
-
-    git merge [name_branch] - слияние веток
 
     
 
